@@ -1,7 +1,7 @@
 /* Angelino Regular */
 @font-face {
   font-family: 'Angelino';
-  src: url('https://raw.githubusercontent.com/Lilcheff/Angelino/refs/heads/main/Angelino.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Lilcheff/Angelino@main/Angelino.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -10,7 +10,7 @@
 /* Angelino Bold */
 @font-face {
   font-family: 'Angelino';
-  src: url('https://raw.githubusercontent.com/Lilcheff/Angelino/refs/heads/main/Angelino-Bold.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Lilcheff/Angelino@main/Angelino-Bold.woff2') format('woff2');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
@@ -19,7 +19,7 @@
 /* Angelino Inline */
 @font-face {
   font-family: 'Angelino Inline';
-  src: url('https://raw.githubusercontent.com/Lilcheff/Angelino/refs/heads/main/Angelino-Inline.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Lilcheff/Angelino@main/Angelino-Inline.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -28,7 +28,7 @@
 /* Angelino Outline */
 @font-face {
   font-family: 'Angelino Outline';
-  src: url('https://raw.githubusercontent.com/Lilcheff/Angelino/refs/heads/main/Angelino-Outline.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Lilcheff/Angelino@main/Angelino-Outline.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -37,7 +37,7 @@
 /* Angelino Outline Bold */
 @font-face {
   font-family: 'Angelino Outline';
-  src: url('https://raw.githubusercontent.com/Lilcheff/Angelino/refs/heads/main/Angelino-OutlineBold.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/Lilcheff/Angelino@main/Angelino-OutlineBold.woff2') format('woff2');
   font-weight: 700;
   font-style: normal;
   font-display: swap;
